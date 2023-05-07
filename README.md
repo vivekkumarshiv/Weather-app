@@ -20,7 +20,7 @@ Weather Sensei is a frontend weather app that displays real-time weather statist
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/yourusername/weather-sensei.git
+git clone https://github.com/vivekkumarshiv/Weather-app.git
 ```
 
 2. Navigate to the project directory.
